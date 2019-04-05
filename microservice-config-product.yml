@@ -37,7 +37,7 @@ eureka:
     prefer-ip-address: true 
 
 demo:
-  name:jack
+  name: jack
 ---
 server:
   port: 8001
